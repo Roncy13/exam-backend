@@ -41,7 +41,7 @@ class Srr extends App {
     return (
       <React.StrictMode>
         <Head>
-          <title>CSV TEST EXAM</title>
+          <title>CSV UPLOAD BULL QUEUE</title>
         </Head>
 
         <Provider store={reduxStore}>
